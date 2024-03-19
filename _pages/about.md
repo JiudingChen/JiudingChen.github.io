@@ -9,22 +9,30 @@ redirect_from:
 
 Chen Jiuding, currently pursuing an undergraduate degree in Information Management and Information System (Data Science and Business Analytics Program) at the School of Business, Central South University. As a student deeply passionate about data science and business analytics, I have dedicated myself to deepening my expertise and skills in this field. Throughout my academic and research journey, I have had the privilege to become a probationary member of the Communist Party of China, standing out with a high weighted average score of 92.5, ranking third in my class.
 
-陈九鼎，中南大学商学院信息管理与信息系统（数据科学与商业分析实验班）攻读本科学位。师从湖南工商大学党委书记，中南大学商学院名誉院长**陈晓红院士**，中共预备党员，致力于统计分析、机器学习、计量经济等领域。加权均分：92.5，专业排名：**3/30**
+陈九鼎，中共预备党员，中南大学商学院信息管理与信息系统（数据科学与商业分析实验班）在读大三本科生。担任副班长，师从湖南工商大学党委书记，中南大学商学院名誉院长**陈晓红院士**，致力于统计分析、机器学习、计量经济等领域。加权均分：92.5，专业排名：**3/30**
 
-A data-driven personal website
+**Email**：chenjd999@163.com
+**WeChat**：nine99ddd
+**Office**：中南大学新校区商学院江湾楼
+
+Honors
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1.2022-2023学年**<font color=red>国家奖学金</font>**
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2.2022-2023学年中南大学校级一等奖学金
 
-Getting started
+3.2021-2022学年中南大学校级三等奖学金
+
+4.2022-2023学年中南大学优秀学生
+
+5.2022-2023学年中南大学优秀团员
+
+6.2021年军训先进个人
+
+
+Awards
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 Site-wide configuration
 ------
