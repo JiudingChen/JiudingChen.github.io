@@ -21,10 +21,10 @@ repository               : "JiudingChen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CJD证件照.png"
+  avatar           : "CJD证件照.jpg"
   name             : "Jiuding Chen"
   pronouns         : # example: "she/her"  
-  bio              : "中南大学 商学院"
+  bio              : "中南大学 商学院     数据科学与商业分析实验班"
   location         : "Hunan Changsha"
   employer         : "Central South University"
   uri              : # URL
