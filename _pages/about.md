@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Welcome to Jiuding Chen's channel"
+title: "Welcome to Jiuding Chen's channel!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Chen Jiuding, and I am currently pursuing an undergraduate degree in Information Management and Information System (Data Science and Business Analytics Program) at the School of Business, Central South University. As a student deeply passionate about data science and business analytics, I have dedicated myself to deepening my expertise and skills in this field. Throughout my academic and research journey, I have had the privilege to become a probationary member of the Communist Party of China, standing out with a high weighted average score of 92.5, ranking third in my class.
+
+陈九鼎，中南大学商学院信息管理与信息系统（数据科学与商业分析实验班）攻读本科学位。师从湖南工商大学党委书记，中南大学商学院名誉院长陈晓红院士，中共预备党员，致力于统计分析、机器学习、计量经济等领域。加权均分：92.5，专业排名：3/30
 
 A data-driven personal website
 ======
