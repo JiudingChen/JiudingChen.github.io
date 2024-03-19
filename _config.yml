@@ -12,7 +12,7 @@ title                    : "Jiuding Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Jiuding Chen"
 description              : &description "中南大学 商学院"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://JiudingChen.github.io"
+url                      : https://jiudingchen.github.io # the base hostname & protocol for your site e.g. "https://JiudingChen.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiudingChen.github.io"
 
@@ -21,7 +21,7 @@ repository               : "JiudingChen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #""
+  avatar           : "IMG_5567(20220831-174250).png"
   name             : "Jiuding Chen"
   pronouns         : # example: "she/her"  
   bio              : "中南大学 商学院"
