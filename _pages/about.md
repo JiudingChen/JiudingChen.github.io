@@ -12,11 +12,13 @@ Chen Jiuding, currently pursuing an undergraduate degree in Information Manageme
 陈九鼎，中共预备党员，中南大学商学院信息管理与信息系统（数据科学与商业分析实验班）在读大三本科生。担任副班长，师从湖南工商大学党委书记，中南大学商学院名誉院长**陈晓红院士**，致力于统计分析、机器学习、计量经济等领域。加权均分：92.5，专业排名：**3/30**
 
 **Email**：chenjd999@163.com
+
 **WeChat**：nine99ddd
+
 **Office**：中南大学新校区商学院江湾楼
 
 Honors
-======
+---
 1.2022-2023学年**<font color=red>国家奖学金</font>**
 
 2.2022-2023学年中南大学校级一等奖学金
@@ -31,7 +33,7 @@ Honors
 
 
 Awards
-======
+---
 
 
 Site-wide configuration
