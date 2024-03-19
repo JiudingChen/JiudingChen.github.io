@@ -9,7 +9,7 @@ redirect_from:
 
 Chen Jiuding, currently pursuing an undergraduate degree in Information Management and Information System (Data Science and Business Analytics Program) at the School of Business, Central South University. As a student deeply passionate about data science and business analytics, I have dedicated myself to deepening my expertise and skills in this field. Throughout my academic and research journey, I have had the privilege to become a probationary member of the Communist Party of China, standing out with a high weighted average score of 92.5, ranking third in my class.
 
-陈九鼎，中南大学商学院信息管理与信息系统（数据科学与商业分析实验班）攻读本科学位。师从湖南工商大学党委书记，中南大学商学院名誉院长陈晓红院士，中共预备党员，致力于统计分析、机器学习、计量经济等领域。加权均分：92.5，专业排名：3/30
+陈九鼎，中南大学商学院信息管理与信息系统（数据科学与商业分析实验班）攻读本科学位。师从湖南工商大学党委书记，中南大学商学院名誉院长**陈晓红院士**，中共预备党员，致力于统计分析、机器学习、计量经济等领域。加权均分：92.5，专业排名：**3/30**
 
 A data-driven personal website
 ======
