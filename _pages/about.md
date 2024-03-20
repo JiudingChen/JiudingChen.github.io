@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to Jiuding Chen's Channel!"
 author_profile: true
