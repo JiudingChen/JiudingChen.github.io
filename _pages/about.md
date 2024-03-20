@@ -1,4 +1,3 @@
-![image](https://github.com/JiudingChen/JiudingChen.github.io/assets/163873614/e452d978-8374-4509-aff7-0de99fe3394c)---
 permalink: /
 title: "Welcome to Jiuding Chen's Channel!"
 author_profile: true
