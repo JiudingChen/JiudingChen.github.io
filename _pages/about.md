@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Chen Jiuding, a probationary member of the Communist Party of China, is a junior undergraduate majoring in Information Management and Information Systems (Experimental Class for Outstanding Talents in Data Science and Business Analysis) at the Business School of Central South University. He serves as the vice monitor and is a student of Chen Xiaohong, academician and secretary of the Party Committee of Hunan Gongshang University and honorary dean of the Business School of Central South University. He is committed to statistical analysis, machine learning, econometrics and other fields. His weighted average score is 92.5, professional ranking: 3/30, and his comprehensive test score of 96.02 in the 2022-2023 academic year (sophomore year) ranks first in his major.
+Chen Jiuding, from Hunan ChenZhou city, a probationary member of the Communist Party of China, is a junior undergraduate majoring in Information Management and Information Systems (Experimental Class for Outstanding Talents in Data Science and Business Analysis) at the Business School of Central South University. He serves as the vice monitor and is a student of Chen Xiaohong, academician and secretary of the Party Committee of Hunan Gongshang University and honorary dean of the Business School of Central South University. He is committed to statistical analysis, machine learning, econometrics and other fields. His weighted average score is 92.5, professional ranking: 3/30, and his comprehensive test score of 96.02 in the 2022-2023 academic year (sophomore year) ranks first in his major.
 
-陈九鼎，中共预备党员，中南大学商学院信息管理与信息系统专业（数据科学与商业分析卓越人才培养实验班）在读大三本科生。担任副班长，师从湖南工商大学党委书记，中南大学商学院名誉院长陈晓红院士，致力于统计分析、机器学习、计量经济等领域。加权均分：**92.5/100**，专业排名：**3/30**，2022-2023学年（大二学年）综测96.02分，位列专业第一。
+**陈九鼎**，湖南郴州人，中共预备党员，中南大学商学院信息管理与信息系统专业（数据科学与商业分析卓越人才培养实验班）在读大三本科生。担任副班长，师从湖南工商大学党委书记，中南大学商学院名誉院长陈晓红院士，致力于统计分析、机器学习、计量经济等领域。加权均分：**92.5/100**，专业排名：**3/30**，2022-2023学年（大二学年）综测96.02分，位列专业第一。
 
 **Email**：chenjd999@163.com
 
@@ -19,7 +19,7 @@ Chen Jiuding, a probationary member of the Communist Party of China, is a junior
 
 Selected Honors
 ---
-1.2022-2023学年**<font color=red>国家奖学金</font>**
+1.2022-2023学年**国家奖学金**
 
 2.2022-2023学年中南大学校级一等奖学金
 
