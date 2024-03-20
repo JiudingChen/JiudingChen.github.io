@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Emotional Moment"
     url: /publications/
 
-  - title: "Talks"
+  - title: "WeChat:nine99ddd"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Ex-Girlfriends"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "还没想好"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "也没想好"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
