@@ -58,14 +58,15 @@ Research Experience
 + **基于时间序列预测的蔬菜类商品定价和补货决策**：基于大量商超真实数据利用相关预测统计方法进行预测定价与补货、制定策略、为商超提供建议等。
 + **“湘心助农”-基于AIoT的丝路农业技术平台**：完整的创业计划、含技术成果，市场行业分析，生产与运营等。
 
-Create content & metadata
+Volunteer Work
 ---
 Wait...
 
-**Markdown generator**
+Sports Time
+---
 Wait...
 
-How to edit your site's GitHub repository
+Leisure Time
 ------
 Wait...
 
