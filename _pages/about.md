@@ -9,7 +9,7 @@ redirect_from:
 
 Chen Jiuding, currently pursuing an undergraduate degree in Information Management and Information System (Data Science and Business Analytics Program) at the School of Business, Central South University. As a student deeply passionate about data science and business analytics, I have dedicated myself to deepening my expertise and skills in this field. Throughout my academic and research journey, I have had the privilege to become a probationary member of the Communist Party of China, standing out with a high weighted average score of 92.5, ranking third in my class.
 
-陈九鼎，中共预备党员，中南大学商学院信息管理与信息系统专业（数据科学与商业分析卓越人才培养实验班）在读大三本科生。担任副班长，师从湖南工商大学党委书记，中南大学商学院名誉院长**<font color=red>陈晓红院士</font>**，致力于统计分析、机器学习、计量经济等领域。加权均分：92.5，专业排名：**3/30**，2022-2023学年综测96.02分，位列专业第一。
+陈九鼎，中共预备党员，中南大学商学院信息管理与信息系统专业（数据科学与商业分析卓越人才培养实验班）在读大三本科生。担任副班长，师从湖南工商大学党委书记，中南大学商学院名誉院长陈晓红院士，致力于统计分析、机器学习、计量经济等领域。加权均分：92.5，专业排名：**3/30**，2022-2023学年综测96.02分，位列专业第一。
 
 **Email**：chenjd999@163.com
 
@@ -32,12 +32,28 @@ Honors
 6.2021年军训先进个人
 
 
-Awards
+Selected Awards
 ---
+1.全国大学生数学建模竞赛湖南赛区一等奖
 
+2.APMCM亚太地区大学生数学建模竞赛国家一等奖
 
-Site-wide configuration
-------
+3.美国大学生数学建模大赛H奖
+
+4.全国大学生商务谈判大赛国家二等奖
+
+5.全国大学生商务谈判大赛最佳谈判手
+
+6.全国大学生数学竞赛湖南赛区三等奖
+
+7.全国大学生英语翻译大赛国家二等奖
+
+8.国家级大创负责人-“湘心助农-基于AIoT的丝路农业技术平台”
+
+9.校级奖项数余...
+
+Research Experience
+---
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
