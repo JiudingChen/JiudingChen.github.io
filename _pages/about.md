@@ -1,4 +1,4 @@
----
+![image](https://github.com/JiudingChen/JiudingChen.github.io/assets/163873614/e452d978-8374-4509-aff7-0de99fe3394c)---
 permalink: /
 title: "Welcome to Jiuding Chen's Channel!"
 author_profile: true
@@ -54,7 +54,9 @@ Selected Awards
 
 Research Experience
 ---
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
++ **Development analysis of new energy vehicles in China based on ARIMA model and gray scale prediction**:定量分析影响中国新能源汽车发展的因素、ARIMA模型-国内新能源汽车销量预测、分析国内新能源政策影响情况、比对国内外政策等。
++ **基于时间序列预测的蔬菜类商品定价和补货决策**：基于大量商超真实数据利用相关预测统计方法进行预测定价与补货、制定策略、为商超提供建议等。
++ **“湘心助农”基于AIoT的丝路农业技术平台**：完整的创业计划、含技术成果，市场行业分析，生产与运营等。
 
 Create content & metadata
 ------
