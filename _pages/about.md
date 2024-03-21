@@ -1,4 +1,4 @@
-![image](https://github.com/JiudingChen/JiudingChen.github.io/assets/163873614/019622bb-e8f7-4d67-8673-11f609e89038)![image](https://github.com/JiudingChen/JiudingChen.github.io/assets/163873614/8b7900c1-f125-43b8-ac1d-0927d3914b82)---
+---
 permalink: /
 title: "Welcome to Jiuding Chen's Channel!"
 author_profile: true
