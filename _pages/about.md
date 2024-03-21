@@ -1,4 +1,4 @@
----
+![image](https://github.com/JiudingChen/JiudingChen.github.io/assets/163873614/019622bb-e8f7-4d67-8673-11f609e89038)![image](https://github.com/JiudingChen/JiudingChen.github.io/assets/163873614/8b7900c1-f125-43b8-ac1d-0927d3914b82)---
 permalink: /
 title: "Welcome to Jiuding Chen's Channel!"
 author_profile: true
@@ -57,6 +57,13 @@ Research Experience
 + **Development analysis of NEV in China based on ARIMA model and Gray Scale Prediction**：定量分析影响中国新能源汽车发展的因素、ARIMA模型-国内新能源汽车销量预测、分析国内新能源政策影响情况、比对国内外政策等。
 + **基于时间序列预测的蔬菜类商品定价和补货决策**：基于大量商超真实数据利用相关预测统计方法进行预测定价与补货、制定策略、为商超提供建议等。
 + **“湘心助农”-基于AIoT的丝路农业技术平台**：完整的创业计划、含技术成果(图像识别、智能分析等)，市场行业分析，生产与运营等。
++ **基于中部地区城市综合评价的空气质量聚类分析与主成分分析**：建立城市综合评价体系、应用数种聚类方法与主成分分析空气质量、并使用贝叶斯判别等。
++ **Analysis of future development of Olympic Games based on evaluation and prediction of AHP+CRITIC**：应用AHP+CRITIC模型构建影响奥运会发展的指标体系、并针对奖牌数进行预测等。
++ **数字经济驱动绿色发展文献综述**：对数字经济驱动绿色发展、全要素生产等的模式进行了综述。
++ **Research on Mining Hot Topics of NEV Weibo Public Opinion Based on Visualization and LDA Topic Model**：基于LDA模型的新能源汽车微博舆论热点挖掘、情感分析等。
++ **基于相关性分析与分类模型的玻璃文物成分的研究**：对真实玻璃文物数据进行相关性分析与建立随机森林等机器学习模型进行分类等。
+
+
 
 Volunteer Work
 ---
