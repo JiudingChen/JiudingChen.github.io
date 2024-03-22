@@ -1,5 +1,8 @@
 ---
 title: "Selected Awards"
+excerpt: "Amazing photo!<br/><img src='/images/muscular.JPG' width='30%'>"
+collection: Honors
+
 1.全国大学生数学建模竞赛湖南赛区一等奖
 
 2.APMCM亚太地区大学生数学建模竞赛国家一等奖
@@ -18,8 +21,6 @@ title: "Selected Awards"
 
 9.校级奖项数余...
 
-excerpt: "Amazing photo!<br/><img src='/images/muscular.JPG' width='30%'>"
-collection: Honors
 ---
 1.全国大学生数学建模竞赛湖南赛区一等奖
 
