@@ -1,6 +1,6 @@
 ---
 title: "Test 1"
-excerpt: "Some photos in daily life！🥰<br/><img src="/images/muscular.png" width="50%">"
+excerpt: "Some photos in daily life！🥰<br/><img src="/images/muscular.png" width="50%">
 collection: portfolio
 ---
 
