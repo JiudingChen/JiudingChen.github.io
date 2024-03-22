@@ -6,6 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
 Look some Honors！😋
 ---
 1.全国大学生数学建模竞赛湖南赛区一等奖
