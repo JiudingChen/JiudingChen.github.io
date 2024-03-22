@@ -6,15 +6,22 @@ author_profile: true
 ---
 {% include base_path %}
 
-Honors and Awards
-------
-先引用测试一下
-24. [Rising Star](https://mp.weixin.qq.com/s/Lecza9L8zgZYDPdKpkP2XA) (云帆奖-明日之星), World AI Conference, 2022.
+Look some Honors！😋
+---
+1.全国大学生数学建模竞赛湖南赛区一等奖
 
-23. 🏆 [Best Student Paper Award](https://www2022.thewebconf.org/awards/) of ***WWW 2022*** (1/1822, the second WWW Best Student Paper from China), 2022
-    
-22. [IVADO Postdoctoral Fellowship](https://ivado.ca/en/scholarships-and-grants/postdoctoral-research-funding/), Canada
-    
-21. [Outstanding Doctoral Dissertation Award](https://grs.pku.edu.cn/xwgz11/xxgk11/xwsy111/364670.htm), Peking University (Sole winner in Computer Software and Theory), 2022
-    
-20. The first place in PhD Group of CCF Academic Show, 2022
+2.APMCM亚太地区大学生数学建模竞赛国家一等奖
+
+3.美国大学生数学建模大赛H奖
+
+4.全国大学生商务谈判大赛国家二等奖
+
+5.全国大学生商务谈判大赛最佳谈判手
+
+6.全国大学生数学竞赛湖南赛区三等奖
+
+7.全国大学生英语翻译大赛国家二等奖
+
+8.国家级大创负责人-“湘心助农-基于AIoT的丝路农业技术平台”
+
+9.校级奖项数余...
