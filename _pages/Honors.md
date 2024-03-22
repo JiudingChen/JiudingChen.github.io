@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% for post in site.Honors %}
   {% include archive-single.html %}
 {% endfor %}
 
