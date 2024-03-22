@@ -1,4 +1,7 @@
+---
 title: "Selected Awards"
+excerpt: "Amazing group!<br/><img src='/images/muscular.JPG' width='30%'>"
+collection: Honors
 ---
 1.全国大学生数学建模竞赛湖南赛区一等奖
 
