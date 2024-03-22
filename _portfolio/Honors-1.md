@@ -1,7 +1,4 @@
----
-title: "Test 1"
----
-Selected Awards
+title: "Selected Awards"
 ---
 1.全国大学生数学建模竞赛湖南赛区一等奖
 
@@ -21,8 +18,8 @@ Selected Awards
 
 9.校级奖项数余...
 
-excerpt: "Some photos in daily life！🥰<br/><img src='/images/muscular.png' width='50%'>"
-collection: Honors
----
+<p align="center">
+<img src="/images/muscular.png" width="30%"> 
+</p>
 
 This is an item in your Honors. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
