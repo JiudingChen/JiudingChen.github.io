@@ -19,7 +19,7 @@ Chen Jiuding, from Hunan ChenZhou city, a probationary member of the Communist P
 
 Selected Honors
 ---
-1.2022-2023学年**国家奖学金**
+1.2022-2023学年[**国家奖学金**](https://app.gaokaozhitongche.com/news/h/0O75MXG2)
 
 2.2022-2023学年中南大学校级**一等奖**学金
 
@@ -27,7 +27,7 @@ Selected Honors
 
 4.2022-2023学年中南大学优秀学生
 
-5.2022-2023学年中南大学优秀团员
+5.2022-2023学年中南大学[优秀团员](https://bs.csu.edu.cn/info/1006/18592.htm)
 
 6.2021年军训先进个人
 
