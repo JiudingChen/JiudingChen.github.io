@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "Emotional Moment"
-    url: /publications/
+  - title: "Selected Awards"
+    url: /awards/
 
-  - title: "MIS quarterly"
-    url: /talks/    
+  - title: "Honors"
+    url: /Honors/
 
   - title: "WeChat:nine99ddd"
     url: /teaching/    
+
+  - title: "talks"
+    url: /talks/  
     
-  - title: "Honors"
-    url: /Honors/
-        
   - title: "也没想好"
     url: /year-archive/
     
