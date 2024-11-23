@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Chen Jiuding, from Hunan ChenZhou city, a probationary member of the Communist Party of China, is a junior undergraduate majoring in Information Management and Information Systems (Experimental Class for Outstanding Talents in Data Science and Business Analysis) at the Business School of Central South University. He serves as the vice monitor and is a student of Chen Xiaohong, honorary dean of the Business School of Central South University. He is committed to statistical analysis, machine learning, econometrics and other fields. His weighted average score is excellent, professional ranking: 3/30, and his comprehensive test score of 96.02 in the 2022-2023 academic year (sophomore year) ranks first in his major.
+Chen Jiuding, from Hunan privince, a probationary member of the Communist Party of China, is a junior undergraduate majoring in Information Management and Information Systems (Experimental Class for Outstanding Talents in Data Science and Business Analysis) at the Business School of Central South University. He serves as the vice monitor and is a student of Chen Xiaohong, honorary dean of the Business School of Central South University. He is committed to statistical analysis, machine learning, econometrics and other fields. His weighted average score is excellent, professional ranking: 3/30, and his comprehensive test score of 96.02 in the 2022-2023 academic year (sophomore year) ranks first in his major.
 
-**陈九鼎**，湖南郴州人，中共预备党员，中南大学商学院**信息管理与信息系统专业**（数据科学与商业分析卓越人才培养实验班）在读大三本科生。目前已拿到**中国人民大学信息学院研究生offer**，担任副班长，师从中南大学商学院名誉院长[陈晓红院士](https://baike.baidu.com/item/%E9%99%88%E6%99%93%E7%BA%A2/8442178?fr=po_ala)，致力于统计分析、机器学习、计量经济等领域。专业排名：**3/30**，2022-2023学年（大二学年）综测**96.02**分，位列**专业第一**。
+**陈九鼎**，湖南人，中共预备党员，中南大学商学院**信息管理与信息系统专业**（数据科学与商业分析卓越人才培养实验班）在读大三本科生。已保送至**中国人民大学**攻读研究生，夏令营优营率百分之百，担任副班长，师从中南大学商学院名誉院长[陈晓红院士](https://baike.baidu.com/item/%E9%99%88%E6%99%93%E7%BA%A2/8442178?fr=po_ala)，致力于统计分析、机器学习、深度学习、金融科技等领域。专业排名：**3/30**，2022-2023学年（大二学年）综测**96.02**分，位列**专业第一**。
 
 **Email**：chenjd999@163.com
 
@@ -19,17 +19,19 @@ Chen Jiuding, from Hunan ChenZhou city, a probationary member of the Communist P
 
 Selected Honors
 ---
-1.2022-2023学年**国家奖学金**
+1.**国家奖学金**
 
-2.2022-2023学年中南大学校级**一等奖**学金
+2. **格林美创新实践奖学金**
 
-3.2021-2022学年中南大学校级三等奖学金
+3.中南大学校级**一等奖**学金
 
-4.2022-2023学年中南大学优秀学生
+4.中南大学优秀学生
 
-5.2022-2023学年中南大学优秀团员
+5.中南大学优秀学生干部
 
-6.2021年军训先进个人
+6.中南大学优秀团员
+
+7.军训先进个人
 
 
 Selected Awards
@@ -48,9 +50,9 @@ Selected Awards
 
 7.全国大学生英语翻译大赛国家二等奖
 
-8.国家级大创负责人-“湘心助农-基于AIoT的丝路农业技术平台”
+8.国家级大创负责人-优秀项目与案例
 
-9.湖南省挑战杯金奖
+9.挑战杯全国金奖
 
 10.校级奖项数十余...
 
@@ -65,7 +67,7 @@ Research Experience
 + **Research on Mining Hot Topics of NEV Weibo Public Opinion Based on Visualization and LDA Topic Model**：基于LDA模型的新能源汽车微博舆论热点挖掘、情感分析等。
 + **基于相关性分析与分类模型的玻璃文物成分的研究**：对真实玻璃文物数据进行相关性分析与建立随机森林等机器学习模型进行分类等。
 
-备注：还有一些最近感兴趣的领域与方向就不放上来了，卖个关子（也只是初学者，努力学习中），上面这些都是以前的一些小研究，可供参考~
+备注：还有一些最近感兴趣的领域与方向就不放上来了，卖个关子（也只是初学者，努力学习中），上面这些都是以前的一些小研究（偏自娱自乐），可供参考~
 
 
 Volunteer Work
