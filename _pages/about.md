@@ -100,4 +100,4 @@ Leisure Time
 
 For more info
 ------
-Wait...期待在北京海淀的更多平凡or精彩的故事
+Wait...下一篇章Base: 北京海淀
