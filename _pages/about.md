@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Chen Jiuding, from Hunan privince, a probationary member of the Communist Party of China, is a junior undergraduate majoring in Information Management and Information Systems (Experimental Class for Outstanding Talents in Data Science and Business Analysis) at the Business School of Central South University. He serves as the vice monitor and is a student of Chen Xiaohong, honorary dean of the Business School of Central South University. He is committed to statistical analysis, machine learning, econometrics and other fields. His weighted average score is excellent, professional ranking: 3/30, and his comprehensive test score of 96.02 in the 2022-2023 academic year (sophomore year) ranks first in his major.
+Chen Jiuding, from Hunan privince, a member of the Communist Party of China, is a junior undergraduate majoring in Information Management and Information Systems (Experimental Class for Outstanding Talents in Data Science and Business Analysis) at the Business School of Central South University. He serves as the vice monitor and is a student of Chen Xiaohong, honorary dean of the Business School of Central South University. He is committed to statistical analysis, machine learning, econometrics and other fields. His weighted average score is excellent, professional ranking: 3/30, and his comprehensive test score of 96.02 in the 2022-2023 academic year (sophomore year) ranks first in his major.
 
-**陈九鼎**，湖南人，中共预备党员，中南大学商学院**信息管理与信息系统专业**（数据科学与商业分析卓越人才培养实验班）在读大三本科生。已保送至**中国人民大学**攻读研究生，夏令营优营率百分之百，担任副班长，师从中南大学商学院名誉院长[陈晓红院士](https://baike.baidu.com/item/%E9%99%88%E6%99%93%E7%BA%A2/8442178?fr=po_ala)，致力于统计分析、机器学习、深度学习、金融科技等领域。专业排名：**3/30**，2022-2023学年（大二学年）综测**96.02**分，位列**专业第一**。
+**陈九鼎**，湖南人，中共党员，中南大学商学院**信息管理与信息系统专业**（数据科学与商业分析卓越人才培养实验班）在读大四本科生。已保送至**中国人民大学**攻读研究生，夏令营优营率百分之百，担任副班长，师从中南大学商学院名誉院长[陈晓红院士](https://baike.baidu.com/item/%E9%99%88%E6%99%93%E7%BA%A2/8442178?fr=po_ala)，致力于统计分析、机器学习、深度学习、金融科技等领域。专业排名：**3/30**，2022-2023学年（大二学年）综测**96.02**分，位列**专业第一**。
 
 **Email**：chenjd999@163.com
 
 **Office**：中南大学新校区商学院江湾楼
 
-**MBTI：** ENTJ-A（虽然我也不知道准不准）
+**MBTI：** ENTJ-A（瞎测的，我也不知道准不准）
 
 Selected Honors
 ---
